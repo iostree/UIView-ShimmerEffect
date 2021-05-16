@@ -1,7 +1,7 @@
 //
 //  UIView+ShimmerEffect.swift
 //
-//  Created by Sivabalaa Jothibose on 15/07/2020.
+//  Created by iOSTree on 15/07/2020.
 //  Copyright © 2020 iOSTree. All rights reserved.
 //
 
